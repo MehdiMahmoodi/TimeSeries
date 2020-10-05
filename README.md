@@ -1,6 +1,6 @@
 # Time Series Analysis
 
-**Python for Time Series Analysis**
+**Python for Time Series Analysis: You can use [python environment](https://github.com/MehdiMahmoodi/TimeSeries/blob/master/tsa_course_env.yml) for this course**
 
 Instructor: Mehdi Mahmoodi
 
@@ -22,17 +22,26 @@ This course even covers Facebook's Prophet library, a simple to use, yet powerfu
 
 ## Detailed Course Description
 
-1-  Itroduction to Time Series:
+0-  [Itroduction to Time Series](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/00-Intro-to-Time-Series)
+  
+1-  [NumPy](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/01-NumPy)
 
-  a)  [Time-Series-Basics](https://github.com/MehdiMahmoodi/TimeSeries/blob/master/00-Intro-to-Time-Series/00-Time-Series-Basics.ipynb)
-  
-  b)  [Datetime-Basics](https://github.com/MehdiMahmoodi/TimeSeries/blob/master/00-Intro-to-Time-Series/01-Datetime-Basics.ipynb)
-  
-2-  NumPy and Python for Numerical Processing
-3-  Pandas for Data Visualization
-4-  How to Work with Time Series Data with Pandas
-5-  Use Statsmodels to Analyze Time Series Data
-6-  Use Facebook's Prophet Library for forecasting
-7-  Understand advanced ARIMA models for Forecasting
+2-  [Pandas](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/02-Pandas)
+
+3-  [Pandas for Data Visualization](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/03-Pandas-Visualization)
+
+4-  [Time Series With Pandas](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/04-Time-Series-with-Pandas)
+
+5-  [Time Series Analysis With Statsmodels](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/05-Time-Series-Analysis-with-Statsmodels)
+
+6-  [General Forcasting Models](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/06-General-Forecasting-Models)
+
+7-  [Deep Learning Models](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/07-Deep-Learning-Models)
+
+8-  [Facebook Prophet Library](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/08-Prophet-Library)
+
+9-  [Extra Notebooks](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/09-NO-VIDEO-Bonus-Notebooks)
+
+10- [Data Set](https://github.com/MehdiMahmoodi/TimeSeries/tree/master/Data)
 
 
