@@ -22,7 +22,9 @@ This course even covers Facebook's Prophet library, a simple to use, yet powerfu
 
 ## Detailed Course Description
 
-1-  Pandas for Data Manipulation
+1-  Itroduction to Time Series:
+  a)  [Time-Series-Basics](https://github.com/MehdiMahmoodi/TimeSeries/blob/master/00-Intro-to-Time-Series/00-Time-Series-Basics.ipynb)
+  b)  [Datetime-Basics](https://github.com/MehdiMahmoodi/TimeSeries/blob/master/00-Intro-to-Time-Series/01-Datetime-Basics.ipynb)
 2-  NumPy and Python for Numerical Processing
 3-  Pandas for Data Visualization
 4-  How to Work with Time Series Data with Pandas
